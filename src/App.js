@@ -56,9 +56,11 @@ else {
   this.randomize();
 };
 
+
+
   render() {
     return (
-      <div>
+      <div className="main">
       <Wrapper>
       <Title message={this.state.message} score={this.state.score} topScore={this.state.topScore}  > Clicky Game </Title>
       {this.state.logos.map(logo => (
