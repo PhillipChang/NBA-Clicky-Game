@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nba-click-game/static/css/main.b66b8e87.chunk.css",
-    "main.js": "/nba-click-game/static/js/main.b86c97fd.chunk.js",
-    "main.js.map": "/nba-click-game/static/js/main.b86c97fd.chunk.js.map",
-    "runtime~main.js": "/nba-click-game/static/js/runtime~main.1e678f5c.js",
-    "runtime~main.js.map": "/nba-click-game/static/js/runtime~main.1e678f5c.js.map",
-    "static/js/2.521847a5.chunk.js": "/nba-click-game/static/js/2.521847a5.chunk.js",
-    "static/js/2.521847a5.chunk.js.map": "/nba-click-game/static/js/2.521847a5.chunk.js.map",
-    "index.html": "/nba-click-game/index.html",
-    "precache-manifest.0afb13a0a62bf1eea2e9f294465d9be1.js": "/nba-click-game/precache-manifest.0afb13a0a62bf1eea2e9f294465d9be1.js",
-    "service-worker.js": "/nba-click-game/service-worker.js",
-    "static/css/main.b66b8e87.chunk.css.map": "/nba-click-game/static/css/main.b66b8e87.chunk.css.map"
+    "main.css": "/nba-clicky-game/static/css/main.b66b8e87.chunk.css",
+    "main.js": "/nba-clicky-game/static/js/main.9897e482.chunk.js",
+    "main.js.map": "/nba-clicky-game/static/js/main.9897e482.chunk.js.map",
+    "runtime~main.js": "/nba-clicky-game/static/js/runtime~main.34603361.js",
+    "runtime~main.js.map": "/nba-clicky-game/static/js/runtime~main.34603361.js.map",
+    "static/js/2.521847a5.chunk.js": "/nba-clicky-game/static/js/2.521847a5.chunk.js",
+    "static/js/2.521847a5.chunk.js.map": "/nba-clicky-game/static/js/2.521847a5.chunk.js.map",
+    "index.html": "/nba-clicky-game/index.html",
+    "precache-manifest.d4076d1a30bc3a2e0c4ef82fac9c0d54.js": "/nba-clicky-game/precache-manifest.d4076d1a30bc3a2e0c4ef82fac9c0d54.js",
+    "service-worker.js": "/nba-clicky-game/service-worker.js",
+    "static/css/main.b66b8e87.chunk.css.map": "/nba-clicky-game/static/css/main.b66b8e87.chunk.css.map"
   }
 }
