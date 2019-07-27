@@ -2,9 +2,7 @@ import React from "react";
 import "./style.css";
 
 function Title(props) {
-    return (
-        <h1 className="title">{props.children}</h1>;
-    )
+    return <h1 className="title">{props.children} Message: {props.message} Score: {props.score} Top Score: {props.topScore}</h1>;
 }
 
 export default Title;
