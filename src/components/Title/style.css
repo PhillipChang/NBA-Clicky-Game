@@ -1,8 +1,21 @@
-.title {
-  width: 100%;
-  text-align: center;
-  font-size: 3rem;
-  text-decoration: underline;
-  color: #2A77AE;
-  margin-bottom: 50px;
+#scores{
+    margin-left:15rem;
+    color:white;
+}
+
+#message {
+    margin-left:46rem;
+    font-size:1rem;
+    color:white;
+}
+
+#logo {
+    width:3%;
+    height:2%;
+}
+
+#logo-text{
+    color:white;
+    font-weight:bolder;
+    font-size:1rem;
 }

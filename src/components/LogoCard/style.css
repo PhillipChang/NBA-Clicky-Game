@@ -1,18 +1,18 @@
-.card {
+.holder {
   background: transparent;
   border-radius: 2px;
-  height: 307px;
+  height: 18%;
   margin: 1rem;
   position: relative;
-  width: 250px;
+  width: 23%;
 }
 
-.card > .img-container {
-  height: 60%;
+.holder > .img-container {
+  height: 85%;
   overflow: hidden;
   text-align: center;
   background:transparent;
 }
-.card > .img-container > img {
-  width: 60%
+.holder > .img-container > img {
+  width: 30%
 }

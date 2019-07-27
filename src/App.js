@@ -6,6 +6,7 @@ import logos from "./logo.json";
 import shuffle from "shuffle-array";
 
 
+
 class App extends Component {
   state = {
     logos,
@@ -20,7 +21,7 @@ randomize(){
   this.setState({ logos });
 };
 
-gameDone = (score) => {
+gameDone = () => {
   if (this.state.score > this.state.topScore) {
     console.log("this happen");
     this.setState({topScore: this.state.score});
@@ -32,7 +33,7 @@ handleBtnClick = (id,name) => {
 let logosClicked = this.state.logosClicked;
 
 if (logosClicked === null){
-  // logosClicked = [...logosClicked, id];
+  logosClicked = [...logosClicked, id];
   this.setState({ logosClicked : logosClicked, score:this.state.score + 1, message: "Click to start"});
 }
 
@@ -47,9 +48,9 @@ else {
   if(logosClicked.push(id)){
     this.setState({message: `You have recruited ${name}`});
   }
-
-  if(logosClicked.length === 12) {
-    this.setState({score: 12, logosClicked:[],message: "Congrats! You are a true NBA FAN!"});
+    if(logosClicked.length === 12) {
+    this.setState({score:12,topScore:12, logosClicked:[],message: "Congrats! You win. Click to play again!"});
+    this.setState({score:0});
   }
 }
 }
@@ -61,8 +62,8 @@ else {
   render() {
     return (
       <div className="main">
+      <Title message={this.state.message} score={this.state.score} topScore={this.state.topScore}></Title>
       <Wrapper>
-      <Title message={this.state.message} score={this.state.score} topScore={this.state.topScore}  > Clicky Game </Title>
       {this.state.logos.map(logo => (
         <LogoCard
         id={logo.id}
