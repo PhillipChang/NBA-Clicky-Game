@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/nba-click-game/static/css/main.2cce8147.chunk.css",
-    "main.js": "/nba-click-game/static/js/main.abca7bb7.chunk.js",
-    "main.js.map": "/nba-click-game/static/js/main.abca7bb7.chunk.js.map",
+    "main.css": "/nba-click-game/static/css/main.b66b8e87.chunk.css",
+    "main.js": "/nba-click-game/static/js/main.b86c97fd.chunk.js",
+    "main.js.map": "/nba-click-game/static/js/main.b86c97fd.chunk.js.map",
     "runtime~main.js": "/nba-click-game/static/js/runtime~main.1e678f5c.js",
     "runtime~main.js.map": "/nba-click-game/static/js/runtime~main.1e678f5c.js.map",
-    "static/js/2.b41502e9.chunk.js": "/nba-click-game/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/nba-click-game/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.521847a5.chunk.js": "/nba-click-game/static/js/2.521847a5.chunk.js",
+    "static/js/2.521847a5.chunk.js.map": "/nba-click-game/static/js/2.521847a5.chunk.js.map",
     "index.html": "/nba-click-game/index.html",
-    "precache-manifest.3c7f5ed547c1abd9962a51b2fe57bbad.js": "/nba-click-game/precache-manifest.3c7f5ed547c1abd9962a51b2fe57bbad.js",
+    "precache-manifest.0afb13a0a62bf1eea2e9f294465d9be1.js": "/nba-click-game/precache-manifest.0afb13a0a62bf1eea2e9f294465d9be1.js",
     "service-worker.js": "/nba-click-game/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/nba-click-game/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/nba-click-game/static/media/logo.5d5d9eef.svg"
+    "static/css/main.b66b8e87.chunk.css.map": "/nba-click-game/static/css/main.b66b8e87.chunk.css.map"
   }
 }
