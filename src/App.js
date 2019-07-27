@@ -38,7 +38,6 @@ if (logosClicked === null){
 
 else {
   if (logosClicked.includes(id)){
-    console.log("we are here");
     this.setState({logosClicked: [], score: 0, message: "Good Game! You lost. Click to play again!"});
     this.gameDone();
   }
@@ -46,7 +45,6 @@ else {
 else {
   this.setState({ score: this.state.score + 1 });
   if(logosClicked.push(id)){
-    console.log("we pushed id", id);
     this.setState({message: `You have recruited ${name}`});
   }
 
