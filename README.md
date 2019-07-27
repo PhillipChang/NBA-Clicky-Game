@@ -1,3 +1,19 @@
+# NBA Clicky-Game
+
+[Deployed Link](https://phillipchang.github.io/nba-clicky-game/)
+
+### Landing Page
+![Main-Screen](public/images/website.jpg)
+
+### Website In Action
+![Main-Screen](public/images/website.gif)
+
+## Description
+
+Think you are a true NBA fanatic? Test your memory by challenging yourself to remember NBA team logos. Don't click on one team more than once or else it will all be over.
+
+### How to Use: 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +82,18 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+# Technologies Used
+
+* React
+* HTML
+* CSS
+* Bootstrap
+* JSX
+* Express
+* Shuffle-array
+
+# Author
+
+Phillip Chang
